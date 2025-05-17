@@ -225,4 +225,10 @@ ori $t0, $t0, 0x5678
 
 ---
 
+## ✍️ Author
 
+Created by **Avidz**,  
+📘 For the *Computer Architecture and Organization* module  
+🎯 Purpose: To help batchmates learn and revise MIPS with clarity
+
+Feel free to contribute or share with others!
