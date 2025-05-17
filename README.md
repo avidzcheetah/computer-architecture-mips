@@ -1,4 +1,4 @@
-# ✅ MIPS Cheat Sheet (Beginner-Friendly)
+# ✅ MIPS Cheat Sheet
 
 ---
 
