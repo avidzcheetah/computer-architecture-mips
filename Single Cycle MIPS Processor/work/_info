@@ -1,0 +1,379 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vadder
+Z0 !s110 1748493217
+!i10b 1
+!s100 mh1R93cCTCD4Q6?628KQD3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5^c1L9nKT7ICdF8OTUKOf3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Engguest/Downloads/LAB 03/designFiles
+Z4 w1623791438
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/adder.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/adder.v
+!i122 32
+L0 1 4
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1748493217.000000
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+valu
+R0
+!i10b 1
+!s100 izjWeAhgDlog`2H3G`09k3
+R1
+IEzOniR0]56od16G1QS[_`2
+R2
+R3
+w1748493133
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/alu.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/alu.v
+!i122 33
+Z9 L0 1 22
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/alu.v|
+!i113 1
+R7
+R8
+valudec
+R0
+!i10b 1
+!s100 QGhhJ2Ud1_0LM9Y];]nOX2
+R1
+IEdiZ19<KH<1Zkl8:7KeaY0
+R2
+R3
+w1623818496
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/aludec.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/aludec.v
+!i122 34
+L0 1 17
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/aludec.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/aludec.v|
+!i113 1
+R7
+R8
+vcontroller
+R0
+!i10b 1
+!s100 Z?JB@kQ;mK<no>`hEJ6M<3
+R1
+I[KTL_aY1NJAV@=MH9@5=90
+R2
+R3
+Z10 w1623791062
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/controller.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/controller.v
+!i122 35
+L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/controller.v|
+!i113 1
+R7
+R8
+vdatapath
+Z11 !s110 1748493218
+!i10b 1
+!s100 8A35HP91HI?2d1i=g?gGH3
+R1
+IcmVZi[D7<@WIC<<B8o[H_2
+R2
+R3
+w1623819264
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/datapath.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/datapath.v
+!i122 36
+Z12 L0 1 36
+R5
+r1
+!s85 0
+31
+Z13 !s108 1748493218.000000
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/datapath.v|
+!i113 1
+R7
+R8
+vdmem
+R11
+!i10b 1
+!s100 PK[M3eHR8^;zZZUZ>^NOJ0
+R1
+I5@1@e_D8LP>I]mFl9:5oW0
+R2
+R3
+w1623791562
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/dmem.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/dmem.v
+!i122 37
+L0 1 9
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/dmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/dmem.v|
+!i113 1
+R7
+R8
+vflopr
+R11
+!i10b 1
+!s100 gJ]iZoG@AS`==o?E_1[<C1
+R1
+I9??16DRjZ<PT;_9:WnGRc1
+R2
+R3
+w1623791512
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/flopr.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/flopr.v
+!i122 38
+L0 1 8
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/flopr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/flopr.v|
+!i113 1
+R7
+R8
+vimem
+R11
+!i10b 1
+!s100 od`=ga4;B2emHm>f2KU212
+R1
+I=4=9QlLX=IB@E]gkSG`fn1
+R2
+R3
+w1623791544
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/imem.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/imem.v
+!i122 39
+L0 1 7
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/imem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/imem.v|
+!i113 1
+R7
+R8
+vmaindec
+R11
+!i10b 1
+!s100 G7X1gP=LPEcMWeco?5P;I3
+R1
+Id9^f<0C7FA7dRH?5BV[8o3
+R2
+R3
+w1623819362
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/maindec.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/maindec.v
+!i122 40
+R9
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/maindec.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/maindec.v|
+!i113 1
+R7
+R8
+vmips
+R11
+!i10b 1
+!s100 Y`>j[PVn8Y_2h9@Tjia@V2
+R1
+Ijm5g?M2oQj6;H<zM9`j3h3
+R2
+R3
+R10
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/mips.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/mips.v
+!i122 41
+L0 1 21
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/mips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/mips.v|
+!i113 1
+R7
+R8
+vmux2
+Z14 !s110 1748493219
+!i10b 1
+!s100 h?:26ZKB:ChF97:G=;0Ba1
+R1
+I5OTIBg3FP30;<XFl0EZL10
+R2
+R3
+R4
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/mux2.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/mux2.v
+!i122 42
+Z15 L0 1 6
+R5
+r1
+!s85 0
+31
+Z16 !s108 1748493219.000000
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/mux2.v|
+!i113 1
+R7
+R8
+vregfile
+R14
+!i10b 1
+!s100 5`9aZB>G78[OLge^09<370
+R1
+I?afBKICVQIBO1U6Bn]`h?3
+R2
+R3
+w1623791428
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/regfile.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/regfile.v
+!i122 43
+L0 2 19
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/regfile.v|
+!i113 1
+R7
+R8
+vsignext
+R14
+!i10b 1
+!s100 ;b^7Cb5bP_GUHH;94TK=M1
+R1
+I?>VfoVhH>dQFLNh6AM[?O3
+R2
+R3
+w1623812350
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/signext.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/signext.v
+!i122 44
+R15
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/signext.v|
+!i113 1
+R7
+R8
+vsl2
+R14
+!i10b 1
+!s100 AoR3aUPa?kRdLkMO4=KG`2
+R1
+IPgz8YS07W2PKJjJSDBZXo2
+R2
+R3
+w1623791354
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/sl2.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/sl2.v
+!i122 45
+L0 1 5
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/sl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/sl2.v|
+!i113 1
+R7
+R8
+vtestbench
+R14
+!i10b 1
+!s100 T9nG]oCXCiH?nEZ0YBe7?2
+R1
+I:La3T=G<mm2;j0dBLaPj11
+R2
+R3
+w1623817858
+8C:\Users\Engguest\Downloads\LAB 03\designFiles\testbench.v
+FC:\Users\Engguest\Downloads\LAB 03\designFiles\testbench.v
+!i122 46
+R12
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:\Users\Engguest\Downloads\LAB 03\designFiles\testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Engguest\Downloads\LAB 03\designFiles\testbench.v|
+!i113 1
+R7
+R8
+vtop
+!s110 1748493220
+!i10b 1
+!s100 n;m2L3XK4Ai4XY8Y_n0_z2
+R1
+IC=2PX;97o2>i4fd10^1iC0
+R2
+R3
+w1623818026
+8C:/Users/Engguest/Downloads/LAB 03/designFiles/top.v
+FC:/Users/Engguest/Downloads/LAB 03/designFiles/top.v
+!i122 47
+L0 1 12
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Engguest/Downloads/LAB 03/designFiles/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Engguest/Downloads/LAB 03/designFiles/top.v|
+!i113 1
+R7
+R8

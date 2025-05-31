@@ -1,0 +1,106 @@
+{C:/Users/Engguest/Downloads/LAB 03/designFiles/datapath.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/imem.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/imem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/sl2.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/sl2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sl2
+
+Top level modules:
+	sl2
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/maindec.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/maindec.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module maindec
+
+Top level modules:
+	maindec
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/dmem.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/dmem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/flopr.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/flopr.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/regfile.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/regfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/testbench.v} {1 {vlog -work work -stats=none {C:\Users\Engguest\Downloads\LAB 03\designFiles\testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/adder.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/mips.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/mips.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/signext.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/signext.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/top.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/mux2.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/mux2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/controller.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/Engguest/Downloads/LAB 03/designFiles/aludec.v} {1 {vlog -work work -stats=none {C:/Users/Engguest/Downloads/LAB 03/designFiles/aludec.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}}

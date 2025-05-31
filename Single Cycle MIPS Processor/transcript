@@ -1,0 +1,57 @@
+# Compile of adder.v was successful.
+# Compile of alu.v was successful.
+# Compile of aludec.v was successful.
+# Compile of controller.v was successful.
+# Compile of datapath.v was successful.
+# Compile of dmem.v was successful.
+# Compile of flopr.v was successful.
+# Compile of imem.v was successful.
+# Compile of maindec.v was successful.
+# Compile of mips.v was successful.
+# Compile of mux2.v was successful.
+# Compile of regfile.v was successful.
+# Compile of signext.v was successful.
+# Compile of sl2.v was successful.
+# Compile of testbench.v was successful.
+# Compile of top.v was successful.
+# 16 compiles, 0 failed with no errors.
+vsim testbench
+# vsim testbench 
+# Start time: 10:04:13 on May 29,2025
+# Loading work.testbench
+# Loading work.top
+# Loading work.mips
+# Loading work.controller
+# Loading work.maindec
+# Loading work.aludec
+# Loading work.datapath
+# Loading work.flopr
+# Loading work.adder
+# Loading work.sl2
+# Loading work.mux2
+# Loading work.regfile
+# Loading work.signext
+# Loading work.alu
+# Loading work.imem
+# Loading work.dmem
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (3) for port 'alu_control'. The port definition is at: C:/Users/Engguest/Downloads/LAB 03/designFiles/alu.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/dut/mips/dp/alu File: C:/Users/Engguest/Downloads/LAB 03/designFiles/datapath.v Line: 35
+
+do wave.do
+# Cannot open macro file: wave.do
+
+log -r /*
+add wave /*
+run 1000ns
+# Simulation failed
+# ** Note: $stop    : C:/Users/Engguest/Downloads/LAB 03/designFiles/testbench.v(32)
+#    Time: 95 ps  Iteration: 1  Instance: /testbench
+# Break in Module testbench at C:/Users/Engguest/Downloads/LAB 03/designFiles/testbench.v line 32
+gtkwave waveform.vcd
+# invalid command name "gtkwave"
+
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
